@@ -1,0 +1,24 @@
+{
+  "marca": {
+    "nome": "Grupo Braço",
+    "instagram": "grupobraco_",
+    "site": "https://www.grupobraco.com.br"
+  },
+  "concorrentes": [
+    { "nome": "Colunas Brasil",  "instagram": "colunasbrasil",  "site": "" },
+    { "nome": "Goyaco",          "instagram": "goyaco",          "site": "" },
+    { "nome": "São Judas",       "instagram": "saojudas",        "site": "" },
+    { "nome": "SKS",             "instagram": "sks",             "site": "" },
+    { "nome": "Gerdau",          "instagram": "gerdau",          "site": "https://www.gerdau.com" },
+    { "nome": "ArcelorMittal",   "instagram": "arcelormittal",   "site": "https://brasil.arcelormittal.com" },
+    { "nome": "CSN",             "instagram": "csn_oficial",     "site": "https://www.csn.com.br" }
+  ],
+  "coleta": {
+    "instagram": {
+      "campos": ["bio", "seguidores", "seguindo", "posts_count", "highlights", "link_bio", "categoria", "ultimos_posts"]
+    },
+    "mercado": {
+      "temas": ["preço aço brasil", "mercado siderurgia", "aço construção civil", "importação aço"]
+    }
+  }
+}
